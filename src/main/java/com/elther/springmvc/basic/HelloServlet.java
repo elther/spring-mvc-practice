@@ -1,6 +1,4 @@
-package com.elther.springmvc.servlet;
-
-import org.springframework.web.bind.annotation.GetMapping;
+package com.elther.springmvc.basic;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
