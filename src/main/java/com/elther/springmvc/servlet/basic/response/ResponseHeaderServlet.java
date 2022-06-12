@@ -1,4 +1,4 @@
-package com.elther.springmvc.basic.response;
+package com.elther.springmvc.servlet.basic.response;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

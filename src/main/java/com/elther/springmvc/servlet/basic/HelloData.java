@@ -1,4 +1,4 @@
-package com.elther.springmvc.basic;
+package com.elther.springmvc.servlet.basic;
 
 import lombok.Getter;
 import lombok.Setter;

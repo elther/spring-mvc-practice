@@ -1,6 +1,6 @@
-package com.elther.springmvc.basic.response;
+package com.elther.springmvc.servlet.basic.response;
 
-import com.elther.springmvc.basic.HelloData;
+import com.elther.springmvc.servlet.basic.HelloData;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import javax.servlet.ServletException;

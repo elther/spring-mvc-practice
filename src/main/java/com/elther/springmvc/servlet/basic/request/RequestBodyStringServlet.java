@@ -1,4 +1,4 @@
-package com.elther.springmvc.basic.request;
+package com.elther.springmvc.servlet.basic.request;
 
 import org.springframework.util.StreamUtils;
 

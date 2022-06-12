@@ -1,6 +1,6 @@
-package com.elther.springmvc.basic.request;
+package com.elther.springmvc.servlet.basic.request;
 
-import com.elther.springmvc.basic.HelloData;
+import com.elther.springmvc.servlet.basic.HelloData;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.util.StreamUtils;
 
